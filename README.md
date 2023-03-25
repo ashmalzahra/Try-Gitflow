@@ -68,13 +68,6 @@ Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
-
-<p align="right">(<a href="#readme-top">back to top</a>)<tra/p>
 
 <!-- LICENSE -->
 
